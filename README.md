@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nagasai Petnikoti<br>👀 I’m interested in Data Analyst & Developer<br>🌱 I’m currently learning java and frameworks<br>📫 How to reach me : petnikotinagasai@gmail.com or 9603511436<br>😄 Pronouns: he/his
+👋 Hi, I’m Nagasai Petnikoti<br>👀 I’m interested in Data Analyst & Developer<br>🌱 I’m currently learning Power Bi & Tabulu<br>📫 How to reach me : petnikotinagasai@gmail.com or 9603511436<br>😄 Pronouns: he/his
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NAGASAIPETNIKOTI&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAGASAIPETNIKOTI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NAGASAIPETNIKOTI&limit=5&theme=dark&combine_all_yearly_contributions=true)
